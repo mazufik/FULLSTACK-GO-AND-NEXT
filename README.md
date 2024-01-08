@@ -1,4 +1,4 @@
-# Basic Fullstack CRUD Using Go, Next.JS, POstgreSQL, and Docker
+# Basic Fullstack CRUD Using Go, Next.JS, PostgreSQL, and Docker
 
 ## Running Application
 
